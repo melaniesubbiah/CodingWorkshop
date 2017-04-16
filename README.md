@@ -1,0 +1,1 @@
+This is a simple art-based workshop to introduce 8th graders to programming in python.
